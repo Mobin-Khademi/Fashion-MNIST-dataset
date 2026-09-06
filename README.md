@@ -1,6 +1,5 @@
-```markdown
 # Fashion-MNIST Dataset Analysis
-
+```markdown
 Exploratory Data Analysis and visualization of the **Fashion-MNIST** dataset.
 
 This project includes:
